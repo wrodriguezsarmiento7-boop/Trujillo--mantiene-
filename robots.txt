@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://wrodriguezsarmiento7-boop.github.io/Trujillo--mantiene-/sitemap.xml
